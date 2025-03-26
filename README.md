@@ -3,7 +3,7 @@
 
 <h1>💫About Me:</h1>
 
-- 🔭 I’m currently working on [PollFusion](https://github.com/arif0718/PollFusion.git)
+- 🔭 I’m currently working on [Instagram clone](https://github.com/arif0718/Instagram-Clone.git)
 
 - 🌱 I’m currently learning **Next js, Tailwind css**
 
