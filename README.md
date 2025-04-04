@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js, Tailwind css**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, Tailwind, CSS**
 
 - 📫 How to reach me **arifansari90467@gmail.com**
 
