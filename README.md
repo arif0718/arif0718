@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js, Tailwind css**
 
-- 💬 Ask me about **react, Tailwind, CSS**
+- 💬 Ask me about **react js, Tailwind, CSS**
 
 - 📫 How to reach me **arifansari90467@gmail.com**
 
@@ -34,3 +34,4 @@
 <br>
 <h1>🏆GitHub Trophies</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/githu/b-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif0718" alt="arif0718" /></a> </p>
+
