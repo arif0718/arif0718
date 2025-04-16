@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Arif Ansari</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-<h1>💫About Me:</h1>
+<h2>💫About Me:</h2>
+<img align="right" alt="Coding" hight="350px" width="350px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0MHY4ZGIxZ3V5MnVlbTVtYWF0aWt1ZDU4cWw0bG8xdzJiZjgyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 
 - 🔭 I’m currently working on [Instagram clone](https://github.com/arif0718/Instagram-Clone.git)
 
@@ -33,7 +34,7 @@
 </table>
 
 
-<h3 align="left">💻Languages and Tools:</h3>
+<h2 align="left">💻Languages and Tools:</h2>
 <table>
   <tr>
     <td align="center">
@@ -133,6 +134,11 @@
     <td align="center">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
       </a>
     </td>
   </tr>
