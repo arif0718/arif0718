@@ -4,7 +4,7 @@
 <h2>💫About Me:</h2>
 <img align="right" alt="Coding" hight="350px" width="350px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0MHY4ZGIxZ3V5MnVlbTVtYWF0aWt1ZDU4cWw0bG8xdzJiZjgyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/arif0718/Instagram-Clone.git)
+- 🔭 I’m currently working on [iintellex-Knowledge Sharing Plateform](https://github.com/arif0718/iintellex-knowledge-sharing-platform.git)
 
 - 🌱 I’m currently learning **Next js, Tailwind css**
 
